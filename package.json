@@ -1,7 +1,7 @@
 {
   "name": "asp-marketplace",
   "version": "0.1.0",
-  "description": "ASP Marketplace to buy NFTs from the ASP Marketplace contract on the Ethereum Mainnet & Polygon & Mumbai Chain. ",
+  "description": "ASP Marketplace to buy NFTs from the ASP Marketplace contract on the Ethereum Mainnet & Polygon & Mumbai Chain.",
   "author": "@abhishekpatel946",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
