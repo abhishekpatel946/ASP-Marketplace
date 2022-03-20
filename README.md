@@ -48,3 +48,8 @@ yarn start
 ```sh
 0xf2910b4f99736f8c0f0ef759dcf9858e81330201
 ```
+
+# 🚀 Inspired By
+
+- https://www.youtube.com/watch?v=WZWCzsB1xUE&list=PLFPZ8ai7J-iR4F882O2mBjqydynG9iDZS&index=2
+- https://github.com/abhishekpatel946/ethereum-boilerplate
